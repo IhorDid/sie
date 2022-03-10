@@ -1,0 +1,44 @@
+body {
+	font-family: Arial, sans-serif;
+
+	font-size: 20px;
+}
+
+h1, p, h2, form, input, span, a, ul, li {
+	box-sizing: border-box;
+}
+h1 {
+	color: red;
+	
+}
+ .new {
+	width: 200px;
+}
+.text {
+	color: #fff;
+	width: 140px;
+	background: blue;
+	line-height: 30px;
+
+}
+
+.content {
+	color: #fff;
+	background: green;
+	padding-left: 5px;
+}
+
+.block {
+	color:#fff;
+	background: green;
+	padding: 40px 30px
+ }
+
+.list {
+	padding-left: 100px;
+}
+
+li {
+	border: 1px solid black;
+}
+
